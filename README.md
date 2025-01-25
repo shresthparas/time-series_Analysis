@@ -7,7 +7,6 @@
 .Evaluate model Performance
 
 ### 2.Analysis on AAPL Dataset
-.plot_acf and plot_pacf graph
-.use Arch and Garch model
+.use Arch and Garch model for analysis
 
 
